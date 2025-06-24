@@ -1,6 +1,6 @@
 {
   "name": "@shraymonks/biome-config",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "My shared biome config",
   "author": "Raymond Ha <raymond@shraymonks.com> (https://raymondha.com)",
   "type": "module",
